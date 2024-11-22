@@ -1,6 +1,6 @@
-# LoanApprovalPrediction
+## LoanApprovalPrediction
 
-## Problem Statement
+### Problem Statement
 Given a set of features with outcome as loan approved, predict the outcome. The competition details are given [here](https://www.kaggle.com/competitions/playground-series-s4e10) . This solution was among the top 8% of all solutions
 
 ### What worked
