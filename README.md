@@ -12,5 +12,8 @@ Given a set of features with outcome as loan approved, predict the outcome. The 
 ### What did not work
 - Feature Engineering
 
-## Hill Climbing approach
+### Hill Climbing approach
 ![alt text](https://github.com/user-attachments/assets/ffc8948c-274f-4be7-8fca-cf4209b6c799)
+
+### Stacking Approach
+![alt text](https://github.com/user-attachments/assets/caba84f1-3ebc-4ed3-8e59-7d3ce2e13d9a)
