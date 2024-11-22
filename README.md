@@ -13,3 +13,4 @@ Given a set of features with outcome as loan approved, predict the outcome. The 
 - Feature Engineering
 
 ## Hill Climbing approach
+![alt text](https://github.com/user-attachments/assets/4037e394-0165-4576-ba5e-53f3305545ad)
